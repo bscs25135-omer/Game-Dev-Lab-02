@@ -1,2 +1,6 @@
 # Game-Dev-Lab-02
-Hands on git basics
+
+Hands on Git Basics
+
+speed = 4
+
