@@ -2,5 +2,5 @@
 
 Hands on Git Basics
 
-speed = 4
+speed = 6
 
